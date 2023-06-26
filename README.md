@@ -7,3 +7,4 @@ Informationssammlung rund um die Musikarbeit für Planung der Proben und Auffüh
   - WebDB zentraleSammlung der Lieder
   - Weboberfläche zum Pflegen am PC
   - AndroidApp für Recherche und Kurznotizen
+  - Verknüpfungsmöglichkeit (Import/ Export) mit den SQLite-DBs von OpenLP
